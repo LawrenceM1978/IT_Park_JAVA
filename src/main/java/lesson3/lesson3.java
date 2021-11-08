@@ -1,6 +1,6 @@
 package lesson3;
 import java.util.Scanner;
-import java.math.*;
+
 
 public class lesson3 {
 
